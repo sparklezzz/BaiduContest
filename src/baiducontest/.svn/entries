@@ -1,0 +1,80 @@
+10
+
+dir
+8
+svn://162.105.205.253/zxd_svn/BaiduContest/src/baiducontest
+svn://162.105.205.253/zxd_svn
+
+
+
+2013-11-04T14:29:31.728582Z
+7
+zxd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5e87b99a-164b-4c58-8d4f-4c7abe3b7c69
+
+classifier
+dir
+
+preprocessor
+dir
+
+common
+dir
+
+math
+dir
+
+vectorizer
+dir
+
+util
+dir
+
+ProgramLoader.java
+file
+
+
+
+
+2013-10-23T11:35:36.666585Z
+55f0afff0b3c0c88c66474769c659248
+2013-10-25T06:56:39.386240Z
+4
+zxd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+704
+
